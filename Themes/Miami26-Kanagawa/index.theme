@@ -7,6 +7,6 @@ Comment=Fork of Nashville96 with some adjustments and gtk4 support (from Redmond
 [X-GNOME-Metatheme]
 GtkTheme=Miami26-Kanagawa
 MetacityTheme=Miami26-Kanagawa
-IconTheme=
-CursorTheme=
+IconTheme=Mint-Y-Kanagawa-carpyellow
+CursorTheme=StayGold
 CursorSize=32

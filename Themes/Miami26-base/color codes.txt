@@ -1,0 +1,21 @@
+colors and what they correspond to
+#e30064 -> Primary background color (bg_1)
+#ff7811 -> Lighter background color (bg_2)
+#ffc107 -> (more) Lighter background color (bg_3)
+#921979 -> Darker background color (bg_4)
+#44258c -> (more) Darker background color (color a)
+
+#6dc927 -> Primary foreground color (fg_1)
+#58AB1B -> slightly darker foreground color (color a)
+#008c8c -> Darker foreground color (fg_2)
+#2334ad -> (more) Darker foreground color (fg_3)
+#162280 -> even Darker foreground color (fg_4)
+#59ebf5 -> Lighter foreground color (color a)
+
+#00FF90 -> Success (ex_3)
+#FF3D00-> Warning (ex_4)
+#FF003A -> Error (ex_5)
+#6400FF -> Link (ex_1)
+#38008F -> Link Shadow (ex_2)
+
+rgba(255, 193, 7, 0.2); -> Xfce rubberband background (ex_6)

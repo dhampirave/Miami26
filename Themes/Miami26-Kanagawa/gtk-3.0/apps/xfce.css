@@ -20,11 +20,11 @@ XfdesktopIconView.view {
     text-shadow: none;
     color: shade(@selected_bg_color, 3.0); }
   XfdesktopIconView.view .label {
-    text-shadow: none;
+    text-shadow:  1px 1px @disabled_font;
     color: @font_bright; }
   XfdesktopIconView.view .rubberband {
-    border: 1px dotted @xfd_rubberband_outline;
-    background: rgba(40,40,41,0.01); }
+    border: 1px solid @xfd_rubberband_outline;
+    background-color: @ex_6;}
 
 /* XFCE Panel Bar */
 .xfce4-panel {

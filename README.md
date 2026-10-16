@@ -1,23 +1,21 @@
 # Miami26
-Some windows9x styled gtk themes for linux. I only use Mint Mate, so I cannot guarantee that this will work on other DEs/Distros. For the most part the code and assets is mainly from Nashville96, but I adjusted the gtk 3 css file to change how colors are defined and shamelessly took the gtk 4 code from Redmond97-SE and added it in the theme. I'm still learning how gtk css works, so updates (if any) will be infrequent!
+Some windows9x styled gtk themes for linux. Works on MATE and Xfce!. For the most part the code and assets is mainly from Nashville96, but I adjusted the gtk 3 css file to change how colors are defined and shamelessly took the gtk 4 code from Redmond97-SE and added it in the theme. I'm still learning how gtk css works, so updates (if any) will be infrequent!
 
 Feel free to make your own forks or requests!
 
 ## Versions Available
-
-### Dark versions
-- "Default dark" - basic black theme, using some colors from [Open color](https://github.com/yeun/open-color)
-- [Catppuccin Mocha](https://github.com/catppuccin/catppuccin)
+- "Basic" - basic black theme, using some colors from [Open color](https://github.com/yeun/open-color)
+- [Catppuccin (Mocha)](https://github.com/catppuccin/catppuccin)
 - [Kanagawa](https://github.com/rebelot/kanagawa.nvim)
 - [Gruvbox](https://github.com/morhetz/gruvbox)
-- [Solarized](https://github.com/altercation/solarized)
+Solarized version wont be updated as of OCT 2026
 
 ## Screenshots
+new screenshots soon!
 <img src="https://raw.githubusercontent.com/dhampirave/Miami26/refs/heads/Miami26/images/default%20dark.png">
 <img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/catppuccinmocha.png?raw=true">
 <img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/kanagawa.png?raw=true">
 <img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/gruvbox.png?raw=true">
-<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/solarized.png?raw=true">
 
 ## This theme would not be possible without the following:
 - [donfaustinocortizone](https://github.com/donfaustinocortizone) - [Nashville96](https://github.com/donfaustinocortizone/Nashville96)

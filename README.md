@@ -1,5 +1,7 @@
 # Miami26
-Some windows9x styled gtk themes for linux. Works on MATE and Xfce!. For the most part the code and assets is mainly from Nashville96, but I adjusted the gtk 3 css file to change how colors are defined and shamelessly took the gtk 4 code from Redmond97-SE and added it in the theme. I'm still learning how gtk css works, so updates (if any) will be infrequent!
+Some windows9x styled gtk themes for linux. Works on MATE and Xfce!. For the most part the code and assets is mainly from Nashville96, but I adjusted the gtk 3 css file to change how colors are defined and shamelessly took the gtk 4 code from Redmond97-SE and added it in the theme.
+
+To be completely honest, I am clueless about gtk css so any updates will be focused on color variations or minor fixes. Apologies!
 
 Feel free to make your own forks or requests!
 
@@ -9,13 +11,14 @@ Feel free to make your own forks or requests!
 - [Kanagawa](https://github.com/rebelot/kanagawa.nvim)
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 Solarized version wont be updated as of OCT 2026
+Toyko Night version soon!
 
 ## Screenshots
 new screenshots soon!
-<img src="https://raw.githubusercontent.com/dhampirave/Miami26/refs/heads/Miami26/images/default%20dark.png">
-<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/catppuccinmocha.png?raw=true">
-<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/kanagawa.png?raw=true">
-<img src="https://github.com/dhampirave/Miami26/blob/Miami26/images/gruvbox.png?raw=true">
+<img src="images/basic.png">
+<img src="images/catppuccin.png">
+<img src="images/kanagawa.png">
+<img src="images/gruvbox.png">
 
 ## This theme would not be possible without the following:
 - [donfaustinocortizone](https://github.com/donfaustinocortizone) - [Nashville96](https://github.com/donfaustinocortizone/Nashville96)
